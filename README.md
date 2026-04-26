@@ -42,3 +42,5 @@ containing both English and Bengali language.
 ## 📈 Results
 Final Score: 2.70705
 Final Rank: 2nd out of 41 teams
+## 📊 Model Comparison Chart
+![Model Comparison](model_comparison.png)
